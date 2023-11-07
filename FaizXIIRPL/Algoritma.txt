@@ -1,0 +1,14 @@
+Menyalakan Komputer
+1. Pencet tombol "on" di CPU
+2. Apakah komputer sudah menyala normal?
+3. Jika ya
+ ~Apakah muncul pesan error di layar?
+ ~Jika ya, lakukan troubleshooting
+ ~Jika tidak, bisa langsung di nyalakan
+4. Jika tidak
+ ~Apakah lampu indikator menyala
+ ~Jika ya, pencet tombol "on" pada monitor
+ ~Jika tidak, cek sumber listrik untuk memastikan arus
+ ~Apakah masalah teratasi?
+ ~Jika ya, komputer bisa langsung digunakan
+ ~Jika tidak, silakan panggil teknisi untuk memperbaikinya
